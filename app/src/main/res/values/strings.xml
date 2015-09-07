@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Basic information for I-Market -->
+    <string name="app_name">LecSquare</string>
+    <string name="app_detail">모든 무료 강의 정보가 한곳에!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- Navigation-Drawer Item Array -->
+    <string-array name="navigation_items">
+        <item>세상을 바꾸는 시간, 15분</item>
+        <item>TED</item>
+        <item>대학강의</item>
+        <item>워드프레스</item>
+    </string-array>
+    <string name="navigation_name">메뉴</string>
+
+</resources>
